@@ -56,7 +56,7 @@ The pipeline includes a real-time inference simulation using fixed-length window
 
 ## 💡 Motivation
 
-This project was developed to demonstrate the practical skillset and scientific grounding needed for building robust neurotechnology systems. It mirrors the machine learning responsibilities outlined in the **Bio Signal Processing & Machine Learning Engineer** role at Subsense:
+This project was developed to demonstrate the practical skillset and scientific grounding needed for building robust neurotechnology systems.
 - End-to-end biosignal ML pipelines
 - Robust signal decoding under noise
 - Cross-functional integration with neurotech and hardware teams
